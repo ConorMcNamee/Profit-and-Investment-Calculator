@@ -1,4 +1,4 @@
-#Profit and Investment Calculator
+# Profit and Investment Calculator
 
 This is a very simple python script that either calculates your profit or
 gives you a rough estimate of how much you could make based on your average daily return
